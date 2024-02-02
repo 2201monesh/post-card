@@ -2,6 +2,8 @@ import React from 'react'
 import CardNav from './CardNav';
 import Profile from './Profile';
 import TextBar from './TextBar';
+import Reply from './Reply';
+import PostSection from './PostSection';
 
 function Card() {
   return (
@@ -9,6 +11,8 @@ function Card() {
       <CardNav />
       <Profile />
       <TextBar />
+      <Reply />
+      <PostSection />
     </div>
   )
 }
