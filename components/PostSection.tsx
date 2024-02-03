@@ -22,4 +22,4 @@ function PostSection() {
   )
 }
 
-export default PostSection
+export default PostSection;
